@@ -9,4 +9,4 @@
 #### 5. The chance of finding candidate of exoplanet would increased if:
         - Focus on G and K type of stars
         - Focus on magnitude around 14 to 15
-#### 6. About 2.2% (98 planets) of all candidate exoplanet could be a candidate of the next earth because of their position are in the habitable zone. Mostly they orbit G type of stars like sun and then type F,K and M for the rest
+#### 6. About 2.2% (98 planets) of all candidate exoplanet could be a candidate of the next earth because of their position are in the habitable zone. Mostly they orbit G type of stars like sun and then type F, K and M for the rest
